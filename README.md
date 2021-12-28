@@ -51,5 +51,8 @@ With vimscript:
 colorscheme zephyrium
 ```
 
+### 🔥 Extra
+You can find in the extra folder some themes (sorry, for now only one 😇 )for the major terminls in use
+
 ## Thanks to
 - [Glepnir](https://github.com/glepnir) For his amazing work on zephyr-nvim
